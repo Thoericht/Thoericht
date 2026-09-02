@@ -22,7 +22,7 @@ My background in consumer insights, market research and research data management
 
 | Project | Focus & methods | What it covers | Status |
 |---|---|---|---|
-| [Customer Segmentation with RFM and NLP](https://github.com/Thoericht/customer-segmentation-rfm-nlp) | Python · RFM analysis · TF-IDF · Clustering | Customer segmentation for online retail data by combining behavioural RFM metrics with text-based product information. | In progress |
+| [Customer Segmentation with RFM and NLP](https://github.com/Thoericht/customer-segmentation-rfm-nlp) | Python · RFM analysis · TF-IDF · Clustering | Customer segmentation for online retail data by combining behavioural RFM metrics with text-based product information. | Completed |
 | [Bike Sharing Demand Forecasting](https://github.com/Thoericht/bike_sharing) | Python · Time series · XGBoost · Model evaluation | Forecasting bike-sharing demand from temporal and contextual variables, including an executive summary. | Completed |
 | [LLM Sustainability Analysis](https://github.com/Thoericht/llm-sustainability-analysis) | Python · LLM evaluation · NLP · Responsible AI | Analysis of LLM response characteristics, sustainability-related prompts and refusal patterns. | On hold |
 
