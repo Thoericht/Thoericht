@@ -22,6 +22,7 @@ My background in consumer insights, market research and research data management
 
 | Project | Focus & methods | What it covers | Status |
 |---|---|---|---|
+| [Decoding Device Behavior](https://github.com/Thoericht/decoding-device-behavior) | Power BI · DAX · Customer analytics · Segmentation · Data storytelling | Interactive analysis of mobile-device telemetry, connecting usage-intensity segments with app engagement, data consumption and battery-drain KPIs. | In progress |
 | [Customer Segmentation with RFM and NLP](https://github.com/Thoericht/customer-segmentation-rfm-nlp) | Python · RFM analysis · TF-IDF · TruncatedSVD · K-Means · Clustering | Customer segmentation for online-retail data by combining behavioural RFM metrics with text-based product information. | Completed |
 | [Bike Sharing Demand Forecasting](https://github.com/Thoericht/bike_sharing) | Python · Time series · Linear Regression · Random Forest · XGBoost · Model evaluation | Forecasting bike-sharing demand from temporal and contextual variables, including an executive summary. | Completed |
 | [LLM Sustainability Analysis](https://github.com/Thoericht/llm-sustainability-analysis) | Python · NLP · LLM evaluation · Responsible AI · BERTopic · Logistic Regression · Random Forest | Analysis of LLM response characteristics, sustainability-related prompts and refusal patterns. | On hold |
