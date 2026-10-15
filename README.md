@@ -6,7 +6,7 @@ I build Python-based analytics projects that turn data into structured insights 
 
 My background in consumer insights, market research and research data management shapes how I approach data: with attention to the business question, data quality, transparent methodology and clear communication.
 
-[LinkedIn](https://www.linkedin.com/in/heike-thoericht/) · Based in Bremen, Germany · Open to data analytics, customer intelligence and business insights roles across Germany; willing to relocate for the right opportunity.
+[LinkedIn](https://www.linkedin.com/in/heike-thoericht/) · Based in Bremen, Germany · Open to data analytics, customer intelligence and business insights roles across Europe; willing to relocate for the right opportunity.
 
 ---
 
