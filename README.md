@@ -1,6 +1,6 @@
 # Heike Thöricht
 
-## Customer Intelligence | Data Analytics | Business Insights
+## Data Analytics | Business Insights | Customer Intelligence
 
 I build Python-based analytics projects that turn data into structured insights and actionable recommendations.
 
